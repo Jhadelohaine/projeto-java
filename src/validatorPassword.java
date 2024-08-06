@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 
 public class validatorPassword {
     public static void main(String[] args){
-        String password = "aPP1*99984";
+        String password = "aPP1*2233";
         validatorPassword validator = new validatorPassword();
         validator.validatePassword(password);
     }

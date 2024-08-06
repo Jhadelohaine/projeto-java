@@ -7,7 +7,7 @@ public class passwordValidator {
 
 
     public static void main(String[] args) {
-        String password = "125111231555As#";
+        String password = "12511123155A5";
         passwordValidator validator = new passwordValidator();
         validator.validatePassword(password);
     }
